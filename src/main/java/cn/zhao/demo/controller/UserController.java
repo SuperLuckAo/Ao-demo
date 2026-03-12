@@ -1,7 +1,7 @@
-package com.example.demo.controller;
+package cn.zhao.demo.controller;
 
-import com.example.demo.entity.User;
-import com.example.demo.mapper.UserMapper;
+import cn.zhao.demo.entity.User;
+import cn.zhao.demo.mapper.UserMapper;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
